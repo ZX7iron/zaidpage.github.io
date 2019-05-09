@@ -38,7 +38,7 @@ p {
 header {
     width: 100%;
     height: auto;
-    background-image: url("/assets/images/header/header.jpg");
+    background-image: url("../assets/images/header/header.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
@@ -249,7 +249,7 @@ nav>span {
     margin:  20px 25% 40px 25%;
 }
 #myPicHolder {
-    background-image: url("/assets/images/header/myPic.jpg");
+    background-image: url("../assets/images/header/myPic.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 4.4rem;
